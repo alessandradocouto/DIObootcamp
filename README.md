@@ -1,6 +1,6 @@
 # dio-fullstack-developer-bootcamp
 
-desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS) e back-end(Java e framework Spring), além de banco de dados(MySQL) e introdução à Quality Assurance (QA) para testes e qualidade.
+Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS) e back-end(Java e framework Spring), além de banco de dados(MySQL) e introdução à Quality Assurance (QA) para testes e qualidade.
 
 
 ## :name_badge: Modulo I - Conteúdo de Abertura
