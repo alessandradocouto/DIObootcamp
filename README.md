@@ -24,26 +24,25 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 | --- | --- | --- |
 | :heavy_check_mark: | Menu hamburguer e morphing menu com CSS Transitions | Código |
 
-- Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3
 
-- Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
 
 ## :name_badge: Modulo III - JavaScript
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Desafio TQI - Javascript | Código |
+| :heavy_check_mark: | Desafio TQI - Javascript | (Código)[https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios] |
 | :heavy_check_mark: | Desenvolvendo um jogo da memória | Código |
 
-- Introdução ao Javascript
-- Sintaxe Básica em Javascript
-- Sintaxe e Operadores
-- Variáveis e Tipos
-- Funções
-- Debugging e Error Handling
-- Javascript Assíncrono
-- Orientação ao Objeto
-- Manipulando D.O.M com Javascript
+- [x] Introdução ao Javascript
+- [x] Sintaxe Básica em Javascript
+- [x] Sintaxe e Operadores
+- [x] Variáveis e Tipos
+- [x] Funções
+- [x] Debugging e Error Handling
+- [x] Javascript Assíncrono
+- [x] Orientação ao Objeto
+- [x] Manipulando D.O.M com Javascript
 
 
 ## :name_badge: Modulo V - SQL
