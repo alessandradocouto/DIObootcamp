@@ -3,22 +3,22 @@
 Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS) e back-end(Java e framework Spring), além de banco de dados(MySQL) e introdução à Quality Assurance (QA) para testes e qualidade.
 
 
-## :name_badge: Modulo I - Conteúdo de Abertura
+## Modulo I - Conteúdo de Abertura :books:
 
-:heavy_check_mark: Boas-vindas ao TQI Fullstack Developer
+- [x] Boas-vindas ao TQI Fullstack Developer
 
-:heavy_check_mark: Aula Inaugural - TQI Fullstack Developer
+- [x] Aula Inaugural - TQI Fullstack Developer
 
-:heavy_check_mark: Seja protagonista neste Bootcamp
+- [x] Seja protagonista neste Bootcamp
 
-:heavy_check_mark: Introdução à Programação e Pensamento Computacional
+- [x] Introdução à Programação e Pensamento Computacional
 
-:heavy_check_mark: Introdução ao Git e ao GitHub
+- [x] Introdução ao Git e ao GitHub
 
-:heavy_check_mark: Criando seu primeiro repositório no GitHub
+- [x] Criando seu primeiro repositório no GitHub
 
 
-## :name_badge: Modulo II - HTML/CSS3
+## Modulo II - HTML/CSS3 :books:
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
@@ -27,11 +27,11 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 - [x] Introdução a criação de websites com HTML5 e CSS3
 
 
-## :name_badge: Modulo III - JavaScript
+## Modulo III - JavaScript :books:
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Desafio TQI - Javascript | (Código)[https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios] |
+| :heavy_check_mark: | Desafio TQI - Javascript | [Código](https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios) |
 | :heavy_check_mark: | Desenvolvendo um jogo da memória | Código |
 
 - [x] Introdução ao Javascript
