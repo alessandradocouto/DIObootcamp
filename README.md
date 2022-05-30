@@ -20,12 +20,45 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 
 ## :name_badge: Modulo II - HTML/CSS3
 
-:heavy_check_mark: Introdução a criação de websites com HTML5 e CSS3
+| Status | Desafio | Resolução |
+| --- | --- | --- |
+| :heavy_check_mark: | Menu hamburguer e morphing menu com CSS Transitions | Código |
 
-:heavy_check_mark: Desenvolvendo um menu hamburguer e morphing menu com 
-CSS Transitions
+- Introdução a criação de websites com HTML5 e CSS3
+
+- Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
 
 
+
+## :name_badge: Modulo III - JavaScript
+
+| Status | Desafio | Resolução |
+| --- | --- | --- |
+| :heavy_check_mark: | Desafio TQI - Javascript | Código |
+| :heavy_check_mark: | Desenvolvendo um jogo da memória | Código |
+
+- Introdução ao Javascript
+- Sintaxe Básica em Javascript
+- Sintaxe e Operadores
+- Variáveis e Tipos
+- Funções
+- Debugging e Error Handling
+- Javascript Assíncrono
+- Orientação ao Objeto
+- Manipulando D.O.M com Javascript
+
+
+## :name_badge: Modulo V - SQL
+
+- MySql Trabalhando com as suas primeiras tabelas 
+- MySQL Consultas com Join
+
+
+## :name_badge: Modulo VIII - QA
+
+- Fundamentos de Qualidade de Software
+- Metodologia Ágeis e Ciclo de Desenvolvimento de Software
+- Introdução a Teste de Software 
 
 
 :red_circle: [Em construção] Bootcamp feito por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home)
