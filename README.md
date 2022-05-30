@@ -28,8 +28,6 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 
 - Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
 
-
-
 ## :name_badge: Modulo III - JavaScript
 
 | Status | Desafio | Resolução |
