@@ -1,4 +1,4 @@
-# bootCamp-javascript-evoluiton
+# impulso-evoluiton-bootcamp
 
 Desafios e projetos práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS), back-end(Node JS) e banco de dados SQL como PostgreSQL e NOSQL como MongoDB) e Introdução à testes com Jest e TDD.
 Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home)
