@@ -8,9 +8,10 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Menu hamburguer e morphing menu com CSS Transitions | Código |
+| :heavy_check_mark: | Clone Instagram | Código |
 
 - [x] Introdução a criação de websites com HTML5 e CSS3
+- [x] Posicionando elementos com Flexbox em CSS3
 
 
 ## JavaScript :books:
