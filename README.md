@@ -18,8 +18,8 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Desafios de código - Javascript | [Código](https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios) |
-| :heavy_check_mark: | Projeto com TypeScript | Código |
+| :heavy_check_mark: | Desafios de código - Javascript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/Javascript/Desafios) |
+| :heavy_check_mark: | Projeto com TypeScript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/TypeScript/Desafios) |
 
 - [x] Introdução ao Javascript
 - [x] Sintaxe Básica em Javascript
@@ -35,6 +35,7 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 - [x] Typescript: Classes, Tipos e Interfaces
 - [x] Desafios JavaScript
 - [x] Projeto com TypeScript
+
 
 ## :name_badge: React JS
 
