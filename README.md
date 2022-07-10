@@ -1,24 +1,10 @@
-# dio-fullstack-developer-bootcamp
+# bootCamp-javascript-evoluiton
 
-Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS) e back-end(Java e framework Spring), além de banco de dados(MySQL) e introdução à Quality Assurance (QA) para testes e qualidade.
-
-
-## Modulo I - Conteúdo de Abertura :books:
-
-- [x] Boas-vindas ao TQI Fullstack Developer
-
-- [x] Aula Inaugural - TQI Fullstack Developer
-
-- [x] Seja protagonista neste Bootcamp
-
-- [x] Introdução à Programação e Pensamento Computacional
-
-- [x] Introdução ao Git e ao GitHub
-
-- [x] Criando seu primeiro repositório no GitHub
+Desafios e projetos práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, ReactJS), back-end(Node JS) e banco de dados SQL como PostgreSQL e NOSQL como MongoDB) e Introdução à testes com Jest e TDD.
+Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home)
 
 
-## Modulo II - HTML/CSS3 :books:
+## HTML/CSS3 :books:
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
@@ -27,12 +13,12 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 - [x] Introdução a criação de websites com HTML5 e CSS3
 
 
-## Modulo III - JavaScript :books:
+## JavaScript :books:
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Desafio TQI - Javascript | [Código](https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios) |
-| :heavy_check_mark: | Desenvolvendo um jogo da memória | Código |
+| :heavy_check_mark: | Desafios de código - Javascript | [Código](https://github.com/alessandradocouto/fullstack-developer-bootcamp/tree/master/Javascript/Desafios) |
+| :heavy_check_mark: | Projeto com TypeScript | Código |
 
 - [x] Introdução ao Javascript
 - [x] Sintaxe Básica em Javascript
@@ -43,19 +29,37 @@ Desafios práticos usando tecnologias para front-end(HTML5, CSS3, Javascript, Re
 - [x] Javascript Assíncrono
 - [x] Orientação ao Objeto
 - [x] Manipulando D.O.M com Javascript
+- [x] Javascript Assíncrono
+- [x] Orientação a Objetos
+- [x] Typescript: Classes, Tipos e Interfaces
+- [x] Desafios JavaScript
+- [x] Projeto com TypeScript
+
+## :name_badge: React JS
+
+- [x] Protocolos de Comunicação
+- [x] Introdução a React Js
+- [x] Desenvolvimento de aplicações com React JS para internet
+- [x] Introdução ao React Hooks
+- [x] State & Effects no React JS
+- [x] Práticas avançadas em Projeto com React JS
+- [x] FrontEnd totalmente componentizado na prática com React JS
 
 
-## :name_badge: Modulo V - SQL
+## :name_badge: Banco de Dados SQL e NOSQL
 
-- MySql Trabalhando com as suas primeiras tabelas 
-- MySQL Consultas com Join
-
-
-## :name_badge: Modulo VIII - QA
-
-- Fundamentos de Qualidade de Software
-- Metodologia Ágeis e Ciclo de Desenvolvimento de Software
-- Introdução a Teste de Software 
+- PostgreSQL: Melhores práticas e conceitos 
+- Introdução ao Mongo DB e banco de dados NOSQL
 
 
-:red_circle: [Em construção] Bootcamp feito por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home)
+## :name_badge: Criando API com Node JS
+
+- Fundamentos de NodeJS e Jest
+- Testes na prática com Jest e TDD
+- Rest com Node JS 
+- Microserviços e integrações com Node JS 
+- Criando API REST com Node JS e TypeORM
+- Integrando Backend em Node JS com Frontend em React: Projeto E-commerce
+
+
+:red_circle: [Em construção] feito por [ADC](https://www.github.com/alessandradocouto)
