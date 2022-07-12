@@ -10,16 +10,19 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 | --- | --- | --- |
 | :heavy_check_mark: | Clone Instagram | Código |
 
+
 - [x] Introdução a criação de websites com HTML5 e CSS3
 - [x] Posicionando elementos com Flexbox em CSS3
+
 
 
 ## JavaScript :books:
 
 | Status | Desafio | Resolução |
 | --- | --- | --- |
-| :heavy_check_mark: | Desafios de código - Javascript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/Javascript/Desafios) |
-| :heavy_check_mark: | Projeto com TypeScript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/TypeScript/Desafios) |
+| :heavy_check_mark: | Desafios - Javascript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/Javascript/Desafios) |
+| :heavy_check_mark: | Desafios - TypeScript | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/TypeScript/Desafios) |
+
 
 - [x] Introdução ao Javascript
 - [x] Sintaxe Básica em Javascript
@@ -34,10 +37,11 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 - [x] Orientação a Objetos
 - [x] Typescript: Classes, Tipos e Interfaces
 - [x] Desafios JavaScript
-- [x] Projeto com TypeScript
+- [x] Desafio com TypeScript
 
 
 ## :name_badge: React JS
+
 
 - [x] Protocolos de Comunicação
 - [x] Introdução a React Js
@@ -56,12 +60,19 @@ Bootcamp produzido por [DIGITAL INNOVATION ONE](https://web.digitalinnovation.on
 
 ## :name_badge: Criando API com Node JS
 
-- Fundamentos de NodeJS e Jest
+| Status | Desafio | Resolução |
+| --- | --- | --- |
+| :heavy_check_mark: | Projeto: Consumo de Memória RAM do seu pc | [Código](https://github.com/alessandradocouto/DIObootcamp/tree/master/NodeJS/Projetos/consumo-memoriaRam) |
+
+
+- Fundamentos de Javascript e Node JS
+- Fundamentos de Node JS e Jest
 - Testes na prática com Jest e TDD
 - Rest com Node JS 
 - Microserviços e integrações com Node JS 
 - Criando API REST com Node JS e TypeORM
 - Integrando Backend em Node JS com Frontend em React: Projeto E-commerce
+
 
 
 :red_circle: [Em construção] feito por [ADC](https://www.github.com/alessandradocouto)
