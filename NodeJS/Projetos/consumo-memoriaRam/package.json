@@ -1,0 +1,17 @@
+{
+  "name": "consumo-memoriaram",
+  "version": "1.0.0",
+  "description": "projeto que mostra o consumo de memoria ram no seu pc.",
+  "main": "pcRamConsumo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "consumo",
+    "server",
+    "memoria"
+  ],
+  "author": "alessandra dc",
+  "license": "ISC"
+}
